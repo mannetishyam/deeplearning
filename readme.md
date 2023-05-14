@@ -1,5 +1,5 @@
 # Deep Learning
 
-Dartmouth COSC 278 course
+Dartmouth COSC 189 course
 
 ## Course in progress ##
